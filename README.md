@@ -2,7 +2,8 @@
 
 This is a simple documentation on the steps to be taken when building a very basic chatbot with React.
 
---- image ---
+![chatbot](https://github.com/pi-xlz/react-very-simple-chatbot/assets/104459898/b40cf9fa-dfe9-4e1d-a2d7-dc68ef7cbcdd)
+
 
 I'm very sure you've heard of the all knowing chatGPT, and I've got to be honest when it first came out I swore never to use it and my reason being I believed it'd make me "dumber", well that could be the case if not used wisely, I think...but anyway, I digress.
 
@@ -37,7 +38,8 @@ We're now ready to build.
 
 You project structure should be looking like this if all the steps were followed correclty.
 
---- image ---
+![init-setup](https://github.com/pi-xlz/react-very-simple-chatbot/assets/104459898/35fd45c1-1c8c-4bda-876c-c64de84f12a7)
+
 
 First thing we wanna do is build out the interface, and I've pre-built the html structure and styles so you don't have to worry about that so you can `CTRL + C` and `CTRL + V` the code below into your text editor.
 
@@ -281,6 +283,7 @@ Here's the code:
   ...
 ```
 
---- image ---
+![chrome_cnUbBcb3pp](https://github.com/pi-xlz/react-very-simple-chatbot/assets/104459898/46fe7024-3ab9-4eaf-862e-0a382e60c1f1)
+
 
 And that's it, we're done with our _very simple_ chatbot. Hack away!.
